@@ -11,7 +11,7 @@
 | Lucas | 总助理 | lucas@awell.one | lucas_openclaw | nDo79wDYKN2fF=u=m | 项目协调、综合管理 | 🟢 在线 (主身份) |
 | Sara | UI设计师 | lucas@awell.one | lucas_openclaw | nDo79wDYKN2fF=u=m | UI/UX设计、视觉设计、品牌视觉、设计系统 | 🟢 就位 |
 | Emma | 营销专家 | lucas@awell.one | lucas_openclaw | nDo79wDYKN2fF=u=m | 市场策略、品牌推广、用户增长、营销数据分析 | 🟢 就位 |
-| Jacky | 技术专家 | lucas@awell.one | lucas_openclaw | nDo79wDYKN2fF=u=m | 软件开发、系统架构、代码审查、云计算 | 🟢 就位 |
+| Jacky | 技术专家 | jacky@awell.one | cGim2d1r%KI!jhOW | cGim2d1r%KI!jhOW | 软件开发、系统架构、代码审查、云计算 | 🟢 就位 |
 | Mike | 市场分析师 | lucas@awell.one | lucas_openclaw | nDo79wDYKN2fF=u=m | AI资讯、互联网趋势、X热门话题分析 | 🟢 就位 |
 
 ## 协作规范
@@ -39,6 +39,7 @@
 - **提交规范**：每次更新后自动 push 到远程仓库
 
 ## 最近更新记录
+- **2026-02-09 12:54**：更新 Jacky 账户信息，生成 SSH key 用于 GitHub 和部署
 - **2026-02-09 11:19**：为 Mike 创建独立 Agent 和 Telegram bot，配置市场分析师专属工作区
 - **2026-02-09 10:51**：创建 Jacky 独立 Telegram bot (@hzhw_oc_jacky_bot)，配置多账户绑定
 - **2026-02-09 10:46**：为 Jacky 创建独立 Agent，配置技术专家专属工作区
