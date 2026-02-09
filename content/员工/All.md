@@ -8,12 +8,13 @@
 | Sara | UI设计师 | lucas@awell.one | lucas_openclaw | nDo79wDYKN2fF=u=m | UI/UX设计、视觉设计、品牌视觉、设计系统 | 🟢 就位 |
 | Emma | 营销专家 | lucas@awell.one | lucas_openclaw | nDo79wDYKN2fF=u=m | 市场策略、品牌推广、用户增长、营销数据分析 | 🟢 就位 |
 | Jacky | 技术专家 | lucas@awell.one | lucas_openclaw | nDo79wDYKN2fF=u=m | 软件开发、系统架构、代码审查、云计算 | 🟢 就位 |
+| Mike | 市场分析师 | lucas@awell.one | lucas_openclaw | nDo79wDYKN2fF=u=m | AI资讯、互联网趋势、X热门话题分析 | 🟢 就位 |
 
 ## 协作规范
 
 ### 身份识别
 - **默认对话**：直接说话 = 对 Lucas (总助理) 说话
-- **指定专家**：需先叫名字（如"Sara"、"Emma"、"Jacky"）
+- **指定专家**：需先叫名字（如"Sara"、"Emma"、"Jacky"、"Mike"）
 - **Lucas职责**：协调各专家，整合输出，管理项目进度
 
 ### 工作区管理
@@ -33,6 +34,7 @@
 - **提交规范**：每次更新后自动 push 到远程仓库
 
 ## 最近更新记录
+- **2026-02-09 06:35**：添加市场分析师 Mike，启用 web_fetch 功能
 - **2026-02-09 06:18**：优化团队信息表，添加专业领域和状态
 - **2026-02-09 05:43**：创建测试文档，验证 Obsidian 同步
 - **2026-02-09 05:28**：成功克隆 yiji-server-hono 项目
@@ -41,4 +43,5 @@
 ## 待办事项
 - [ ] 配置 Cloudflare 和 Vercel API 密钥
 - [ ] 开始 yiji-server-hono 项目开发
+- [ ] 建立 Mike 的每日8点自动新闻推送（需要设置 cron job）
 - [ ] 建立定期同步机制
